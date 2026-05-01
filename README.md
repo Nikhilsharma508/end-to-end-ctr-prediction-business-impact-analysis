@@ -589,7 +589,3 @@ print(f"ROC-AUC: {roc_auc_score(y_test, logreg_final.predict_proba(X_test_scaled
 | `catboost` | CatBoost classifier |
 
 ---
-
-<p align="center">
-  <i>Built as a portfolio project demonstrating end-to-end data science — from raw data to actionable business intelligence.</i>
-</p>
